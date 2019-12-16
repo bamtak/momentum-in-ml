@@ -1,6 +1,6 @@
 # Momentum in Machine Learning
 
-This repo contains my implementation of basic optimization algorithms and it application on basic dataset from skitlearn. This may not be optimal implementation.
+This repo contains my implementation of basic optimization algorithms and it application on basic dataset from sklearn. This may not be optimal implementation.
 I only looked at the most common optimizer that use the concept of momentum.
 For better explaination and simpler mathematical explaination and reason why we have variant optimization algorithm, please check the Momentum in ML.pdf file, which accompany this code.
 
